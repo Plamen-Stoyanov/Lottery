@@ -1,0 +1,1 @@
+// Here I'll have fucntions that manipulate my "App.js state";
